@@ -7,9 +7,9 @@ Clear intentions, knowing what you want and then creating it, encourages decoupl
 
 # ------------------------------------------
 # Phases of TDD
-# 1 Red : Creating a test that will fail.(To be sure that test will fail when it is expected to)
-# 2 Green : Updating a test to pass.
-# 3 Refactor : Updating our code to meeet coding standarts and minimize duplication.
+# 1) Red : Creating a test that will fail.(To be sure that test will fail when it is expected to)
+# 2) Green : Updating a test to pass.
+# 3) Refactor : Updating our code to meeet coding standarts and minimize duplication.
 # -- Repeat Them For Each Unit Test Cases --
 
   # Unit Testing Tools
@@ -25,9 +25,9 @@ Set up your tests in one area and then apply them to multiple tests across your 
 
 #  Mocking Frameworks
 
-# 1 FakeItEasy
+# 1) FakeItEasy
 Mocking framework where objects are considered fakes but usage determines whether they are mocks or stubs.
-# 2 NSubstitute
+# 2) NSubstitute
 Mocking framework syntax that is more succinct and concice.
-# 3 Moq
+# 3) Moq
 Mocking library developed from scratch to take full advantage of .NET
