@@ -1,5 +1,7 @@
-# Test-Driven-Development
-Small Unit Testing Examples
+  # Test-Driven-Development
+Process that uses unit tests to drive the design of software
+# Unit Testing
+Tiny testable parts of a program independently tested for expected functionality.
 
   # Unit Testing Tools
   
