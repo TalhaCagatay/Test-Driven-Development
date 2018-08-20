@@ -1,7 +1,9 @@
   # Test-Driven-Development
-Process that uses unit tests to drive the design of software
+Process that uses unit tests to drive the design of software.
 # Unit Testing
 Tiny testable parts of a program independently tested for expected functionality.
+# Advantages
+Clear intentions, knowing what you want and then creating it, encourages decoupling, easier to catch bugs early on, forces writing test cases early and lesses change of missing test cases later, helps achieve YAGNI or "you ain't gonna need it".
 
   # Unit Testing Tools
   
