@@ -5,6 +5,13 @@ Tiny testable parts of a program independently tested for expected functionality
 # Advantages
 Clear intentions, knowing what you want and then creating it, encourages decoupling, easier to catch bugs early on, forces writing test cases early and lesses change of missing test cases later, helps achieve YAGNI or "you ain't gonna need it".
 
+# ------------------------------------------
+# Phases of TDD
+# 1 Red : Creating a test that will fail.(To be sure that test will fail when it is expected to)
+# 2 Green : Updating a test to pass.
+# 3 Refactor : Updating our code to meeet coding standarts and minimize duplication.
+# -- Repeat Them For Each Unit Test Cases --
+
   # Unit Testing Tools
   
 # MSTest
